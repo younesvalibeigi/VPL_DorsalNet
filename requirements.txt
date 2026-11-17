@@ -1,0 +1,16 @@
+# Packages used by this repository in addition to the DorsalNet (yhit)
+# requirements and lucent, which are installed in Section 1 of the notebook.
+torch
+torchvision
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+h5py
+pillow
+tqdm
+gdown
+ipython
+jupyter

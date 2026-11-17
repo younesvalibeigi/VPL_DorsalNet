@@ -1,0 +1,17 @@
+# Cloned / downloaded dependencies
+yhit/
+lucent/
+checkpoints/
+
+# Generated outputs
+data/
+results/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
